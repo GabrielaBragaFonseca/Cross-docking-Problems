@@ -1,6 +1,6 @@
 # Cross-docking-Problems
 ## Instances 
-In this repository, you will find the codes and instances used in the article:
+In this repository, you will find the codes and instances used in the articles:
 
 #### A hybrid Lagrangian metaheuristic for the cross-docking flow-shop scheduling problem. Fonseca, G.B.;  Nogueira, T.H. and Ravetti, M.G. Submitted, 2018.
 #### Cota, P. M. ; Gimenez, B.M.R. ; Araujo, D. P.M. ; Nogueira, T.H. ; Souza, M.C.; Ravetti, MG. Time-indexed formulation and polynomial time heuristic for a multi-dock truck scheduling problem in a cross-docking centre. Computers & Industrial Engineering, v. 95, p. 135-143, 2016
@@ -64,5 +64,7 @@ Artificial instances were generated varying the number of jobs and machines. We 
 Contact information
 
 Gabriela Braga Fonseca - gabrielabragafonseca@gmail.com
-Martín Gómez Ravetti - martin.ravetti@dep.ufmg.br
+
 Thiago Henrique Nogueira - thiagoh.nogueira@ufv.br
+
+Martín Gómez Ravetti - martin.ravetti@dep.ufmg.br
