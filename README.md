@@ -3,22 +3,35 @@
 In this repository, you will find the codes and instances used in the articles:
 
 #### A hybrid Lagrangian metaheuristic for the cross-docking flow-shop scheduling problem. Fonseca, G.B.;  Nogueira, T.H. and Ravetti, M.G. Submitted, 2018.
-#### Cota, P. M. ; Gimenez, B.M.R. ; Araujo, D. P.M. ; Nogueira, T.H. ; Souza, M.C.; Ravetti, MG. Time-indexed formulation and polynomial time heuristic for a multi-dock truck scheduling problem in a cross-docking centre. Computers & Industrial Engineering, v. 95, p. 135-143, 2016
+#### Cota, P. M. ; Gimenez, B.M.R. ; Araujo, D. P.M. ; Nogueira, T.H. ; Souza, M.C.; Ravetti, MG. Time-indexed formulation and polynomial time heuristic for a multi-dock truck scheduling problem in a cross-docking centre. Computers & Industrial Engineering, v. 95, p. 135-143, 2016.
 
-### Algorithms
+## Algorithms
 
 The programming language used is C++ with the optimization software CPLEX 12.4. 
 
-## The Lagrangian algorithm for the 2-dock problem:
+### The Lagrangian algorithm for the 2-dock problem:
 
 We propose a hybrid method based on a Lagrangian relaxation technique through the volume algorithm for the 2-dock problem. The program reads the number of jobs (n and m), two vectors composed by the processing times (machine 1 and machine two, respectively) and one matrix of precedence.
 
 Download algorithm: [RLg.cpp](https://drive.google.com/open?id=1qRbW0pOnw5ViAJw7TGQoGJvI-TuVOW6T) 
 
-## JB Heuristic
+### Constructive Heuristics:
+
+The Constructive Heuristics H1 and H2 use information from Lagrangian multipliers to sort jobs. In the final step both heuristics use an NEH-like heuristic to construct the feasible solution.
+
+Download algorithm: [HeuristicaConstrutiva.cpp](https://drive.google.com/open?id=1glHzPxjKX1F5NnUSlUe3d1A2QroSXGDN) 
+
+### JB Heuristic:
+
+We programmed the best heuristic introduced by Chen and Lee, which is based on Johnson's algorithm. The NEH algorithm and Local search are used to refine the results of JB in the same way than used in H1 and H2.
+
+Download algorithm: [HeuristicaConstrutiva.cpp](https://drive.google.com/open?id=1glHzPxjKX1F5NnUSlUe3d1A2QroSXGDN)
+
+### CDH Heuristic:
 
 
 
+## Instances
 
 ### Instances for the 2-dock version:
 
