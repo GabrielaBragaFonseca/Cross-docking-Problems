@@ -1,5 +1,5 @@
 # Cross-docking Scheduling Problems
-## Instances 
+
 In this repository, you will find the codes and instances used in the articles:
 
 #### A hybrid Lagrangian metaheuristic for the cross-docking flow-shop scheduling problem. Fonseca, G.B.;  Nogueira, T.H. and Ravetti, M.G. Submitted, 2018.
