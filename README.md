@@ -23,13 +23,15 @@ Download algorithm: [HeuristicaConstrutiva.cpp](https://drive.google.com/open?id
 
 ### JB Heuristic:
 
-We programmed the best heuristic introduced by Chen and Lee, which is based on Johnson's algorithm. The NEH algorithm and Local search are used to refine the results of JB in the same way than used in H1 and H2.
+We programmed the best heuristic introduced by Chen and Lee (2009), which is based on Johnson's algorithm. The NEH algorithm and Local search are used to refine the results of JB in the same way than used in H1 and H2.
 
 Download algorithm: [HeuristicaConstrutiva.cpp](https://drive.google.com/open?id=1glHzPxjKX1F5NnUSlUe3d1A2QroSXGDN)
 
 ### CDH Heuristic:
 
+Next you find the CDH heuristic proposed by Cota et al. (2016). The CDH heuristic starts by creating a preliminary schedule in the second machine. With this, a schedule is defined in the first machine and finally the second machine is rescheduled.
 
+Download algorithm: [main.cpp](https://drive.google.com/open?id=1PcuGQ_M4ibWwXnQw-qFj9XyClj-0iaxD)
 
 ## Instances
 
