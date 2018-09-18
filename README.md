@@ -5,11 +5,20 @@ In this repository, you will find the codes and instances used in the articles:
 #### A hybrid Lagrangian metaheuristic for the cross-docking flow-shop scheduling problem. Fonseca, G.B.;  Nogueira, T.H. and Ravetti, M.G. Submitted, 2018.
 #### Cota, P. M. ; Gimenez, B.M.R. ; Araujo, D. P.M. ; Nogueira, T.H. ; Souza, M.C.; Ravetti, MG. Time-indexed formulation and polynomial time heuristic for a multi-dock truck scheduling problem in a cross-docking centre. Computers & Industrial Engineering, v. 95, p. 135-143, 2016
 
-### Algorithm
+### Algorithms
 
-The algorithm is written in C++. The program reads the number of jobs (n and m), two vectors composed by the processing times (machine 1 and machine two, respectively) and one matrix of precedence.
+The programming language used is C++ with the optimization software CPLEX 12.4. 
 
-Download algorithm: [main.cpp](https://drive.google.com/file/d/1PcuGQ_M4ibWwXnQw-qFj9XyClj-0iaxD/view?usp=sharing) 
+## The Lagrangian algorithm for the 2-dock problem:
+
+We propose a hybrid method based on a Lagrangian relaxation technique through the volume algorithm for the 2-dock problem. The program reads the number of jobs (n and m), two vectors composed by the processing times (machine 1 and machine two, respectively) and one matrix of precedence.
+
+Download algorithm: [RLg.cpp](https://drive.google.com/open?id=1qRbW0pOnw5ViAJw7TGQoGJvI-TuVOW6T) 
+
+## JB Heuristic
+
+
+
 
 ### Instances for the 2-dock version:
 
@@ -68,3 +77,4 @@ Gabriela Braga Fonseca - gabrielabragafonseca@gmail.com
 Thiago Henrique Nogueira - thiagoh.nogueira@ufv.br
 
 Martín Gómez Ravetti - martin.ravetti@dep.ufmg.br
+
