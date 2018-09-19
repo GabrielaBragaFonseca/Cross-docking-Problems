@@ -33,6 +33,24 @@ Next you find the CDH heuristic proposed by Cota et al. (2016). The CDH heuristi
 
 Download algorithm: [main.cpp](https://drive.google.com/open?id=1PcuGQ_M4ibWwXnQw-qFj9XyClj-0iaxD)
 
+### Constructive Heuristic for parallel-dock CDC:
+
+In this generalized version, the subproblems of the Lagrangian relaxation are NP-hard, and we work with their linear relaxations.
+
+Download algorithm: [MainVFR.run](https://drive.google.com/open?id=1blzyrFsNj9SJrMgl4ziDK_IaSJRx3pUK)
+
+### Johnson's rule-based ready time heuristic (JRH):
+
+We coded the JRH heuristic following the description found in Chen and Song (2009). 
+
+Download algorithm: [MainJR.run](https://drive.google.com/open?id=1TeudYfiq5sRJncd_HpA8NwfEm8rZMyGk)
+
+### Johnson's rule-based LPT heuristic (JLPTH):
+
+We coded the JLPTH heuristic following the description found in Chen and Song (2009). 
+
+Download algorithm: [MainJLPTH.run](https://drive.google.com/open?id=1Bd86KKY4-bBOK_-YpUcbQVWoC4ob2N6C)
+
 ## Instances
 
 ### Instances for the 2-dock version:
