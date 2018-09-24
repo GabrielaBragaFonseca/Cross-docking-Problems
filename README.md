@@ -110,8 +110,9 @@ Following we report computational results for the Complete Model (MIP) and heuri
 
 Results for MIP, heuristics JB, H1 and H2: [Results_2dock](https://drive.google.com/open?id=1ICAj_ZzNIRWXuwTRc6aHzmLyyXc2UZ0n)
 
-The results for the CDH heuristic are broken down into two groups: 
-Grupo 1: [Grupo 1](https://drive.google.com/open?id=1_CS-PmzZl60VbXe2na3wLZbaW5J7iaml)
+The results for the CDH heuristic are broken down into two groups:
+
+Grupo 1: [Grupo 1](https://drive.google.com/open?id=1_CS-PmzZl60VbXe2na3wLZbaW5J7iaml)|
 Grupo 2: [Grupo 2](https://drive.google.com/open?id=1xA4Xw2RfsXxuMOdj_0IKN-ksAqv-LPdd)
 
 ### Results for the multi-dock problem
