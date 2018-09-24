@@ -1,6 +1,6 @@
 # Cross-docking Scheduling Problems
 
-In this repository, you will find the codes and instances used in the articles:
+In this repository, you will find the codes, instances and results used in the articles:
 
 #### A hybrid Lagrangian metaheuristic for the cross-docking flow-shop scheduling problem. Fonseca, G.B.;  Nogueira, T.H. and Ravetti, M.G. Submitted, 2018.
 #### Cota, P. M. ; Gimenez, B.M.R. ; Araujo, D. P.M. ; Nogueira, T.H. ; Souza, M.C.; Ravetti, MG. Time-indexed formulation and polynomial time heuristic for a multi-dock truck scheduling problem in a cross-docking centre. Computers & Industrial Engineering, v. 95, p. 135-143, 2016.
@@ -101,6 +101,22 @@ Artificial instances were generated varying the number of jobs and machines. We 
 | 3 | [10 machines](https://drive.google.com/open?id=1V8j__8XVVr0fFwPDp7DLfdv703mEEKp2) |
 | 4 | [U(2,4) machines](https://drive.google.com/open?id=1tZ4HQR4nxlKmQ1AM3NIv8EKsbm_9MD8X) |
 | 5 | [ U(2,10) machines](https://drive.google.com/open?id=1kOJEsbhkr9L51OBkzt3OnNJaAzZwYYwo) |
+
+## Results
+
+### Results for the 2-dock problem
+
+Following we report computational results for the Complete Model (MIP) and heuristics JB, CDH, H1, and H2. The GAP(%) is computed as (Upper Bound - Lower Bound)/Upper Bound and the column T(s) refers to CPU time expended to solve the problem in seconds. 
+
+Results for MIP, heuristics JB, H1 and H2: [Results_2dock](https://drive.google.com/open?id=1ICAj_ZzNIRWXuwTRc6aHzmLyyXc2UZ0n)
+
+The results for the CDH heuristic are broken down into two groups: 
+[Grupo 1](https://drive.google.com/open?id=1_CS-PmzZl60VbXe2na3wLZbaW5J7iaml)
+[Grupo 2](https://drive.google.com/open?id=1xA4Xw2RfsXxuMOdj_0IKN-ksAqv-LPdd)
+
+### Results for the multi-dock problem
+
+
 
 
 Contact information
