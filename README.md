@@ -111,12 +111,21 @@ Following we report computational results for the Complete Model (MIP) and heuri
 Results for MIP, heuristics JB, H1 and H2: [Results_2dock](https://drive.google.com/open?id=1ICAj_ZzNIRWXuwTRc6aHzmLyyXc2UZ0n)
 
 The results for the CDH heuristic are broken down into two groups: 
-[Grupo 1](https://drive.google.com/open?id=1_CS-PmzZl60VbXe2na3wLZbaW5J7iaml)
-[Grupo 2](https://drive.google.com/open?id=1xA4Xw2RfsXxuMOdj_0IKN-ksAqv-LPdd)
+Grupo 1: [Grupo 1](https://drive.google.com/open?id=1_CS-PmzZl60VbXe2na3wLZbaW5J7iaml)
+Grupo 2: [Grupo 2](https://drive.google.com/open?id=1xA4Xw2RfsXxuMOdj_0IKN-ksAqv-LPdd)
 
 ### Results for the multi-dock problem
 
+In the following tables we report computational results obtained with heuristics JRH, JLPTH, CDH, H1 and H2 for large instances. In order to evaluate the heuristics proposed we used "Loss" as the criterion to balance the quality of each heuristic algorithm, 
+Loss = (makespan - lower bound)/lower bound. For each combination of number of jobs and number of machines and for each heuristic we report best, average and worst percentage Loss over 300 instances, along with standard deviations.
 
+|Group| Files |
+|:-------------:|:-------------:|
+| 1 | [2 machines](https://drive.google.com/open?id=1IijLbo9xS-OAUIcDxDujTmXIfKUg6TPN) |
+| 2 | [4 machines](https://drive.google.com/open?id=1pRh1vFECr7LhbQJTnrDF6iA6sPUWT3bl) |
+| 3 | [10 machines](https://drive.google.com/open?id=1GAcuAm1cJ2NqV5UTimNue2Zn61EG1KOs) |
+| 4 | [U(2,4) machines](https://drive.google.com/open?id=1NwrD4LpTjq5qXSSVp7LePWooNv727rPx) |
+| 5 | [ U(2,10) machines](https://drive.google.com/open?id=1QaJu4K0REWyUqo6QFWwHhCSbJoLlfJAx) |
 
 
 Contact information
