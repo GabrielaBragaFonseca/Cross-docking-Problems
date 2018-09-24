@@ -106,7 +106,7 @@ Artificial instances were generated varying the number of jobs and machines. We 
 
 ### Results for the 2-dock problem
 
-Following we report computational results for the Complete Model (MIP) and heuristics JB, CDH, H1, and H2. The GAP(%) is computed as (Upper Bound - Lower Bound)/Upper Bound and the column T(s) refers to CPU time expended to solve the problem in seconds. 
+Following we report computational results for the Complete Model (MIP) and heuristics JB, CDH, H1, and H2. The GAP(%) is computed as (Upper Bound - Lower Bound)/Upper Bound and the column T(s) refers to CPU time expended to solve the problem in seconds.
 
 Results for MIP, heuristics JB, H1 and H2: [Results_2dock](https://drive.google.com/open?id=1ICAj_ZzNIRWXuwTRc6aHzmLyyXc2UZ0n)
 
