@@ -14,6 +14,8 @@ The programming language used is C++ with the optimization software CPLEX 12.4.
 We propose a hybrid method based on a Lagrangian relaxation technique through the volume algorithm for the 2-dock problem. The program reads the number of jobs (n and m), two vectors composed by the processing times (machine 1 and machine two, respectively) and one matrix of precedence.
 
 Download algorithm: [RLg.cpp](https://drive.google.com/open?id=1qRbW0pOnw5ViAJw7TGQoGJvI-TuVOW6T) 
+Download .h programms: [.hPrograms](https://drive.google.com/open?id=1mPjf6LfSDJEJaQOCDhsrnqBjwcRJ2RIL) 
+
 
 ### Constructive Heuristics:
 
