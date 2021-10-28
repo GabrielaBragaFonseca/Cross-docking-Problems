@@ -179,8 +179,9 @@ Loss = (makespan - lower bound)/lower bound. For each combination of number of j
 
 We report computational results obtained to problem $Cmax and problem WC for the three methodologies: WA, RA, and PI.
 
-Cmax problem: [Cmax](https://drive.google.com/file/d/15OYDiYVoT0tHTgxJo2SDcdxWQcXHlP-T/view?usp=sharing)
-WC problem: [WC](https://drive.google.com/file/d/13EWj9g-ZnP_pA5AwabPaAQBN6sWCJmT0/view?usp=sharing)
+[Cmax problem](https://drive.google.com/file/d/15OYDiYVoT0tHTgxJo2SDcdxWQcXHlP-T/view?usp=sharing)
+
+[WC problem](https://drive.google.com/file/d/13EWj9g-ZnP_pA5AwabPaAQBN6sWCJmT0/view?usp=sharing)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
