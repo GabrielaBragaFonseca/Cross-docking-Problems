@@ -61,11 +61,17 @@ Download algorithm: [MainJLPTH.run](https://drive.google.com/open?id=1Bd86KKY4-b
 A Rescheduling Approach (RA) to a cross-docking truck scheduling problem with truck arrival time uncertainty is developed. The novelty of the proposed RA approach is the rescheduling strategy to generate efficient solutions even when dealing with uncertain arrival dates. We compared RA against two alternatives (without adjustments - WA), and perfect information - PI), and investigated the impact of the methods on two different problems Cmax and WC. 
 
 Download algorithm: [RA_Cmax.zip](https://drive.google.com/file/d/1NwHOd4Ouch4xImw5FLZjNn6iaepg2-E1/view?usp=sharing)
+
 Download algorithm: [RA_WC.zip](https://drive.google.com/file/d/1EDHAZzSee7BiLa8leT0bzI4qllgo7zsw/view?usp=sharing)
+
 Download algorithm: [WA_Cmax.zip](https://drive.google.com/file/d/1UsUI-8TAXjDADvfEgHYucxn-_7DNZgqZ/view?usp=sharing)
+
 Download algorithm: [WA_WC.zip](https://drive.google.com/file/d/1SMruHK_b-KzZ8IVYtpHTTfHexmgFDod5/view?usp=sharing)
+
 Download algorithm: [PI_Cmax.zip](https://drive.google.com/file/d/1-1C99Fga9g_o2BR4VVVsDEq86d77uJ_C/view?usp=sharing)
+
 Download algorithm: [PI_WC.zip](https://drive.google.com/file/d/1RNuFXzgFKV52CS4U9VK4Q_fBIU9V3fyo/view?usp=sharing)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ## Instances
