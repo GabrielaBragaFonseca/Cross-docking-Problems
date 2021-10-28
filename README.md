@@ -59,7 +59,8 @@ We coded the JLPTH heuristic following the description found in Chen and Song (2
 
 Download algorithm: [MainJLPTH.run](https://drive.google.com/open?id=1Bd86KKY4-bBOK_-YpUcbQVWoC4ob2N6C)
 
-### Rescheduling approach to cross-docking truck scheduling problem with truck arrival time uncertainty
+### Rescheduling approach to cross-docking truck scheduling problem with truck arrival time uncertainty: 
+
 A Rescheduling Approach (RA) to a cross-docking truck scheduling problem with truck arrival time uncertainty is developed. The novelty of the proposed RA approach is the rescheduling strategy to generate efficient solutions even when dealing with uncertain arrival dates. We compared RA against two alternatives (without adjustments - WA), and perfect information - PI), and investigated the impact of the methods on two different problems Cmax and WC. 
 
 Download algorithm: [RA_Cmax.zip](https://drive.google.com/file/d/1NwHOd4Ouch4xImw5FLZjNn6iaepg2-E1/view?usp=sharing)
