@@ -4,6 +4,7 @@ In this repository, you will find the codes, instances and results used in the a
 
 #### A hybrid Lagrangian metaheuristic for the cross-docking flow-shop scheduling problem. Fonseca, G.B.;  Nogueira, T.H. and Ravetti, M.G. Submitted, 2018.
 #### Cota, P. M. ; Gimenez, B.M.R. ; Araujo, D. P.M. ; Nogueira, T.H. ; Souza, M.C.; Ravetti, MG. Time-indexed formulation and polynomial time heuristic for a multi-dock truck scheduling problem in a cross-docking centre. Computers & Industrial Engineering, v. 95, p. 135-143, 2016.
+#### Rescheduling approach to cross-docking truck scheduling problem with truck arrival time uncertainty. Fonseca, G.B.;  Nogueira, T.H. and Ravetti, M.G. Journal: Computers & Industrial Engineering. Submitted, 2021.
 
 ## Algorithms
 
@@ -56,6 +57,17 @@ We coded the JLPTH heuristic following the description found in Chen and Song (2
 
 Download algorithm: [MainJLPTH.run](https://drive.google.com/open?id=1Bd86KKY4-bBOK_-YpUcbQVWoC4ob2N6C)
 
+### Rescheduling approach to cross-docking truck scheduling problem with truck arrival time uncertainty
+A Rescheduling Approach (RA) to a cross-docking truck scheduling problem with truck arrival time uncertainty is developed. The novelty of the proposed RA approach is the rescheduling strategy to generate efficient solutions even when dealing with uncertain arrival dates. We compared RA against two alternatives (without adjustments - WA), and perfect information - PI), and investigated the impact of the methods on two different problems Cmax and WC. 
+
+Download algorithm: [RA_Cmax.zip](https://drive.google.com/file/d/1NwHOd4Ouch4xImw5FLZjNn6iaepg2-E1/view?usp=sharing)
+Download algorithm: [RA_WC.zip](https://drive.google.com/file/d/1EDHAZzSee7BiLa8leT0bzI4qllgo7zsw/view?usp=sharing)
+Download algorithm: [WA_Cmax.zip](https://drive.google.com/file/d/1UsUI-8TAXjDADvfEgHYucxn-_7DNZgqZ/view?usp=sharing)
+Download algorithm: [WA_WC.zip](https://drive.google.com/file/d/1SMruHK_b-KzZ8IVYtpHTTfHexmgFDod5/view?usp=sharing)
+Download algorithm: [PI_Cmax.zip](https://drive.google.com/file/d/1-1C99Fga9g_o2BR4VVVsDEq86d77uJ_C/view?usp=sharing)
+Download algorithm: [PI_WC.zip](https://drive.google.com/file/d/1RNuFXzgFKV52CS4U9VK4Q_fBIU9V3fyo/view?usp=sharing)
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ## Instances
 
 ### Instances for the 2-dock version:
@@ -107,6 +119,22 @@ Artificial instances were generated varying the number of jobs and machines. We 
 | 4 | [U(2,4) machines](https://drive.google.com/open?id=1tZ4HQR4nxlKmQ1AM3NIv8EKsbm_9MD8X) |
 | 5 | [ U(2,10) machines](https://drive.google.com/open?id=1kOJEsbhkr9L51OBkzt3OnNJaAzZwYYwo) |
 
+### Instances for the Rescheduling Approach (RA):
+
+We generate artificial instances varying the number of machines and jobs. We examine five groups of instances: the first three groups consider the same
+number of machines on each stage, $2, 4$, and $10$. The last two groups of instances use a random number of machines on each stage,
+selected from a discrete uniform distribution $U(2,4)$ and $U(2,10)$, respectively. In total, there are 45 instances for each group of instances, resulting in 225 cases. 
+
+|Group| Files |
+|:-------------:|:-------------:|
+| 1 | [2 machines](https://drive.google.com/file/d/1Qj7WFVrajkjIiaKvlZ5w27xqFt6vzntp/view?usp=sharing) |
+| 2 | [4 machines](https://drive.google.com/file/d/1weG7e-jafla064VawYJfmwK0YuJaZFl8/view?usp=sharing) |
+| 3 | [10 machines](https://drive.google.com/file/d/1Kwi3D7HhMCsQsrECcAEQLBAy9lgeJWs9/view?usp=sharing) |
+| 4 | [U(2,4) machines](https://drive.google.com/file/d/1rKwDMlN2ngACkKBdwbvzTLEMRyk3VxeS/view?usp=sharing) |
+| 5 | [ U(2,10) machines](https://drive.google.com/file/d/1Q_QtliMUDuZZ6AGtNNGmkp-rToMdtWGN/view?usp=sharing) |
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ## Results
 
 ### Results for the 2-dock problem
@@ -137,6 +165,13 @@ Loss = (makespan - lower bound)/lower bound. For each combination of number of j
 [U(2,4) machines](https://drive.google.com/open?id=1NwrD4LpTjq5qXSSVp7LePWooNv727rPx) 
 
 [ U(2,10) machines](https://drive.google.com/open?id=1QaJu4K0REWyUqo6QFWwHhCSbJoLlfJAx) 
+
+### Results for the the Rescheduling Approach (RA)
+
+We report computational results obtained to problem $Cmax and problem WC for the three methodologies: WA, RA, and PI.
+
+Cmax problem: [Cmax](https://drive.google.com/file/d/15OYDiYVoT0tHTgxJo2SDcdxWQcXHlP-T/view?usp=sharing)
+WC problem: [WC](https://drive.google.com/file/d/13EWj9g-ZnP_pA5AwabPaAQBN6sWCJmT0/view?usp=sharing)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
