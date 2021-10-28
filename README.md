@@ -2,8 +2,10 @@
 
 In this repository, you will find the codes, instances and results used in the articles:
 
-#### A hybrid Lagrangian metaheuristic for the cross-docking flow-shop scheduling problem. Fonseca, G.B.;  Nogueira, T.H. and Ravetti, M.G. Submitted, 2018.
+#### Fonseca, G.B., Nogueira, T.H., Ravetti, M.G.: A hybrid lagrangian metaheuristic for the cross-docking flow shop scheduling problem. European Journal of Operational Research, 275, 139–154. (2019).
+
 #### Cota, P. M. ; Gimenez, B.M.R. ; Araujo, D. P.M. ; Nogueira, T.H. ; Souza, M.C.; Ravetti, MG. Time-indexed formulation and polynomial time heuristic for a multi-dock truck scheduling problem in a cross-docking centre. Computers & Industrial Engineering, v. 95, p. 135-143, 2016.
+
 #### Rescheduling approach to cross-docking truck scheduling problem with truck arrival time uncertainty. Fonseca, G.B.;  Nogueira, T.H. and Ravetti, M.G. Journal: Computers & Industrial Engineering. Submitted, 2021.
 
 ## Algorithms
