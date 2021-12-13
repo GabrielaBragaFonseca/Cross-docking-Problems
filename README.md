@@ -59,9 +59,9 @@ We coded the JLPTH heuristic following the description found in Chen and Song (2
 
 Download algorithm: [MainJLPTH.run](https://drive.google.com/open?id=1Bd86KKY4-bBOK_-YpUcbQVWoC4ob2N6C)
 
-### Rescheduling approach to cross-docking truck scheduling problem with truck arrival time uncertainty: 
+### Rescheduling methodology: 
 
-A Rescheduling Approach (RA) to a cross-docking truck scheduling problem with truck arrival time uncertainty is developed. The novelty of the proposed RA approach is the rescheduling strategy to generate efficient solutions even when dealing with uncertain arrival dates. We compared RA against two alternatives (without adjustments - WA), and perfect information - PI), and investigated the impact of the methods on two different problems Cmax and WC. 
+Codes:
 
 Download algorithm: [RA_Cmax.zip](https://drive.google.com/file/d/1NwHOd4Ouch4xImw5FLZjNn6iaepg2-E1/view?usp=sharing)
 
@@ -128,11 +128,8 @@ Artificial instances were generated varying the number of jobs and machines. We 
 | 4 | [U(2,4) machines](https://drive.google.com/open?id=1tZ4HQR4nxlKmQ1AM3NIv8EKsbm_9MD8X) |
 | 5 | [ U(2,10) machines](https://drive.google.com/open?id=1kOJEsbhkr9L51OBkzt3OnNJaAzZwYYwo) |
 
-### Instances for the Rescheduling Approach (RA):
+### Instances for the Rescheduling methodology:
 
-We generate artificial instances varying the number of machines and jobs. We examine five groups of instances: the first three groups consider the same
-number of machines on each stage, $2, 4$, and $10$. The last two groups of instances use a random number of machines on each stage,
-selected from a discrete uniform distribution $U(2,4)$ and $U(2,10)$, respectively. In total, there are 45 instances for each group of instances, resulting in 225 cases. 
 
 |Group| Files |
 |:-------------:|:-------------:|
@@ -175,9 +172,7 @@ Loss = (makespan - lower bound)/lower bound. For each combination of number of j
 
 [ U(2,10) machines](https://drive.google.com/open?id=1QaJu4K0REWyUqo6QFWwHhCSbJoLlfJAx) 
 
-### Results for the the Rescheduling Approach (RA)
-
-We report computational results obtained to problem $Cmax and problem WC for the three methodologies: WA, RA, and PI.
+### Results for the the Rescheduling methodology
 
 [Cmax problem](https://drive.google.com/file/d/15OYDiYVoT0tHTgxJo2SDcdxWQcXHlP-T/view?usp=sharing)
 
