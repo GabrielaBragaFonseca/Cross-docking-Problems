@@ -6,7 +6,7 @@ In this repository, you will find the codes, instances and results used in the a
 
 #### Cota, P. M. ; Gimenez, B.M.R. ; Araujo, D. P.M. ; Nogueira, T.H. ; Souza, M.C.; Ravetti, MG. Time-indexed formulation and polynomial time heuristic for a multi-dock truck scheduling problem in a cross-docking centre. Computers & Industrial Engineering, v. 95, p. 135-143, 2016.
 
-#### Rescheduling article: Computers & Industrial Engineering. Submitted, 2021.
+#### Rescheduling article. Submitted, 2022.
 
 ## Algorithms
 
@@ -118,7 +118,7 @@ The instances used in this work are divided into two groups. In each group of in
 
 ### Instances for the multi-dock version:
 
-Artificial instances were generated varying the number of jobs and machines. We consider values of n1 equal to 20, 30, 40, 50, 60, 70 and 80 jobs, and values of n2 equal to integers in [0.8n1, 1.2n1]. Five groups of instances were examined. The first three groups consider the same number of machines in each stage: 2, 4, and 10. The last two groups of instances use a random number of machines in each stage, selected from a uniform distribution U(2,4) and U(2,10), respectively. Processing times were generated with a uniform distribution U(10, 100). We generated 300 instances for each combination of number of jobs and number of machines, resulting in a total of 10.500 instances. All instances are available below:
+All instances are available below:
 
 |Group| Files |
 |:-------------:|:-------------:|
@@ -158,9 +158,6 @@ Grupo 2: [Grupo 2](https://drive.google.com/open?id=1xA4Xw2RfsXxuMOdj_0IKN-ksAqv
 The final results for CDH heuristic are in: [Result_CDH](https://drive.google.com/open?id=1JdoC8vzPPGPsw5ziEiHLDlPqdpcbUkxz)
 
 ### Results for the multi-dock problem
-
-In the following tables we report computational results obtained with heuristics JRH, JLPTH, CDH, H1 and H2 for large instances. In order to evaluate the heuristics proposed we used "Loss" as the criterion to balance the quality of each heuristic algorithm, 
-Loss = (makespan - lower bound)/lower bound. For each combination of number of jobs and number of machines and for each heuristic we report best, average and worst percentage Loss over 300 instances, along with standard deviations.
 
 [2 machines](https://drive.google.com/open?id=1IijLbo9xS-OAUIcDxDujTmXIfKUg6TPN) 
 
