@@ -6,7 +6,7 @@ In this repository, you will find the codes, instances and results used in the a
 
 #### Cota, P. M. ; Gimenez, B.M.R. ; Araujo, D. P.M. ; Nogueira, T.H. ; Souza, M.C.; Ravetti, MG. Time-indexed formulation and polynomial time heuristic for a multi-dock truck scheduling problem in a cross-docking centre. Computers & Industrial Engineering, v. 95, p. 135-143, 2016.
 
-#### Rescheduling article. Submitted, 2022.
+#### Stability approach to cross-docking truck scheduling problem under uncertainty. Optimization Letters. Submitted, 2023.
 
 ## Algorithms
 
@@ -179,9 +179,9 @@ The final results for CDH heuristic are in: [Result_CDH](https://drive.google.co
 
 Contact information
 
-Gabriela Braga Fonseca - gabrielabragafonseca@gmail.com
+Gabriela Braga Fonseca - gabrielabragafonseca@id.uff.br
 
 Thiago Henrique Nogueira - thiagoh.nogueira@ufv.br
 
-Martín Gómez Ravetti - martin.ravetti@dep.ufmg.br
+Martín Gómez Ravetti - martin@dcc.ufmg.br
 
