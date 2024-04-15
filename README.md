@@ -59,7 +59,7 @@ We coded the JLPTH heuristic following the description found in Chen and Song (2
 
 Download algorithm: [MainJLPTH.run](https://drive.google.com/open?id=1Bd86KKY4-bBOK_-YpUcbQVWoC4ob2N6C)
 
-### Rescheduling methodology: 
+### Stability Approach (SA): 
 
 Codes:
 
@@ -128,7 +128,7 @@ All instances are available below:
 | 4 | [U(2,4) machines](https://drive.google.com/open?id=1tZ4HQR4nxlKmQ1AM3NIv8EKsbm_9MD8X) |
 | 5 | [ U(2,10) machines](https://drive.google.com/open?id=1kOJEsbhkr9L51OBkzt3OnNJaAzZwYYwo) |
 
-### Instances for the Rescheduling methodology:
+### Instances for the Stability Approach (SA):
 
 
 |Group| Files |
@@ -169,7 +169,7 @@ The final results for CDH heuristic are in: [Result_CDH](https://drive.google.co
 
 [ U(2,10) machines](https://drive.google.com/open?id=1QaJu4K0REWyUqo6QFWwHhCSbJoLlfJAx) 
 
-### Results for the the Rescheduling methodology
+### Results for the the Stability Approach (SA)
 
 [Cmax problem](https://drive.google.com/file/d/15OYDiYVoT0tHTgxJo2SDcdxWQcXHlP-T/view?usp=sharing)
 
