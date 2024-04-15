@@ -6,7 +6,7 @@ In this repository, you will find the codes, instances and results used in the a
 
 #### Cota, P. M. ; Gimenez, B.M.R. ; Araujo, D. P.M. ; Nogueira, T.H. ; Souza, M.C.; Ravetti, MG. Time-indexed formulation and polynomial time heuristic for a multi-dock truck scheduling problem in a cross-docking centre. Computers & Industrial Engineering, v. 95, p. 135-143, 2016.
 
-#### Stability approach to cross-docking truck scheduling problem under uncertainty. Optimization Letters. Submitted, 2023.
+#### Stability Approach. Submitted, 2023.
 
 ## Algorithms
 
